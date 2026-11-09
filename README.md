@@ -13,3 +13,5 @@
 - Learn the basics of version control
 - Collaborate with others using GitHub
 - Build confidence with git workflows
+## Fun Fact
+I like pineapple coconut water.
